@@ -1,0 +1,119 @@
+Codebook for Getting and Cleaning Data project - Samsung phone activity tracker readings
+
+"subjectid"
+-ID number of the subject	
+-values: 1-30
+
+"activitytype"   
+-which activity the subject was performing
+-values: WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING      
+                 
+"tbodyacc mean x" 
+-mean of the acceleration signal from the smartphone accelerometer X axis in standard gravity units 'g'
+
+"tbodyacc mean y"                        
+- mean of the acceleration signal from the smartphone accelerometer Y axis in standard gravity units 'g'
+
+"tbodyacc mean z"          
+- mean of the acceleration signal from the smartphone accelerometer Z axis in standard gravity units 'g'
+
+"tgravityacc mean x"             
+-mean of the gravitational force x axis
+
+"tgravityacc mean y"                      
+-mean of the gravitational force y axis
+
+"tgravityacc mean z"                     
+-mean of the gravitational force z axis
+
+"tbodyaccjerk mean x"      
+-mean body linear acceleration jerk x axis
+               
+"tbodyaccjerk mean y"  
+-mean body linear acceleration jerk y axis                  
+
+"tbodyaccjerk mean z"                     
+-mean body linear acceleration jerk z axis
+
+"tbodygyro mean x"                       
+-mean gyroscopic force x axis
+
+"tbodygyro mean y"                        
+-mean gyroscopic force y axis
+
+"tbodygyro mean z"                       
+-mean gyroscopic force z axis
+
+"tbodygyrojerk mean x"                    
+-mean gyroscopic force x axis
+
+"tbodygyrojerk mean y"                   
+-mean gyroscopic force x axis
+
+"tbodygyrojerk mean z"                    
+-mean gyroscopic force x axis
+
+"tbodyaccmag mean"                       
+-mean gyroscopic force x axis
+
+"tgravityaccmag mean"                     
+-mean gyroscopic force x axis
+
+"tbodyaccjerkmag mean"                   
+-mean gyroscopic force x axis
+
+"tbodygyromag mean"                       
+-mean gyroscopic force x axis
+
+"tbodygyrojerkmag mean"      
+-mean gyroscopic force x axis
+            
+"fbodyacc mean x"                         
+-mean gyroscopic force x axis
+
+"fbodyacc mean y"                        
+-mean gyroscopic force x axis
+"fbodyacc mean z"                         
+"fbodyaccjerk mean x"                    
+"fbodyaccjerk mean y"                     
+"fbodyaccjerk mean z"                    
+"fbodygyro mean x"                        
+"fbodygyro mean y"                       
+"fbodygyro mean z"                        
+"fbodyaccmag mean"                       
+"fbodybodyaccjerkmag mean"                
+"fbodybodygyromag mean"                  
+"fbodybodygyrojerkmag mean"               
+"tbodyacc standard deviation x"          
+"tbodyacc standard deviation y"           
+"tbodyacc standard deviation z"          
+"tgravityacc standard deviation x"        
+"tgravityacc standard deviation y"       
+"tgravityacc standard deviation z"        
+"tbodyaccjerk standard deviation x"      
+"tbodyaccjerk standard deviation y"       
+"tbodyaccjerk standard deviation z"      
+"tbodygyro standard deviation x"          
+"tbodygyro standard deviation y"         
+"tbodygyro standard deviation z"          
+"tbodygyrojerk standard deviation x"     
+"tbodygyrojerk standard deviation y"      
+"tbodygyrojerk standard deviation z"     
+"tbodyaccmag standard deviation"          
+"tgravityaccmag standard deviation"      
+"tbodyaccjerkmag standard deviation"      
+"tbodygyromag standard deviation"        
+"tbodygyrojerkmag standard deviation"     
+"fbodyacc standard deviation x"          
+"fbodyacc standard deviation y"           
+"fbodyacc standard deviation z"          
+"fbodyaccjerk standard deviation x"       
+"fbodyaccjerk standard deviation y"      
+"fbodyaccjerk standard deviation z"       
+"fbodygyro standard deviation x"         
+"fbodygyro standard deviation y"          
+"fbodygyro standard deviation z"         
+"fbodyaccmag standard deviation"          
+"fbodybodyaccjerkmag standard deviation" 
+"fbodybodygyromag standard deviation"     
+"fbodybodygyrojerkmag standard deviation"
