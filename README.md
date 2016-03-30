@@ -1,5 +1,6 @@
 Script steps
 The script does the following steps (broken up by comments)
+
 1. Unzip the file and get the list of unzipped files-
 2. Read data from the files.
 3. Merges the training and the test sets to create one data set.
